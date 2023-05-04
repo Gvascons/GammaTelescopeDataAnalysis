@@ -6,4 +6,4 @@
 
 ### Os dados são distribuídos em 11 colunas, sendo 10 colunas de atributo e 1 coluna de classe. A coluna de classe pode ser gamma ou hadron, e por razões técnicas o número de instâncias hadron está subestimado, 6688 exemplos contra 12332 exemplos gamma.
 
-#### The notebook is to large to visualize in the github portal, so you'd have to download manually.
+#### The notebook is too large to visualize in the github portal, so you'd have to download manually.
