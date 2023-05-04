@@ -5,3 +5,5 @@
 ### O conjunto de dados também inclui os parâmetros de Hillas, um conjunto de parâmetros característicos da imagem que podem ser usados para discriminação, bem como outras características discriminantes, como a extensão do cluster e a soma total de deposições. Este conjunto de dados pode ser usado para desenvolver e testar algoritmos para discriminar entre raios gama e raios cósmicos em telescópios Cherenkov.
 
 ### Os dados são distribuídos em 11 colunas, sendo 10 colunas de atributo e 1 coluna de classe. A coluna de classe pode ser gamma ou hadron, e por razões técnicas o número de instâncias hadron está subestimado, 6688 exemplos contra 12332 exemplos gamma.
+
+#### The notebook is to large to visualize in the github portal, so you'd have to download manually.
